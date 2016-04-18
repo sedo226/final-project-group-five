@@ -1,0 +1,10 @@
+Micro-Site Proposal:
+Create a QR code promotion that will lead people to our microsite, specifically the questionnaire page. The site’s goal is to increase museum attendance by offering an incentive to attend different exhibitions in order to receive a discount deal with a related restaurant or business. The landing page for our site will be used to describe the promotional deal, and list the current reward for attending the exhibition and filling out a short questionnaire. The questionnaire will be another page of our site, and will consist of a short list of questions created by the museum. The last page will include the dates and descriptions of current and upcoming exhibitions and corresponding promotional deals. There will be two different paths to our website; one from the QR code located onsite at the museum and the other from the link listed on social media promotions.
+
+A.
+Create a promotion to increase museum attendance throughout changing exhibitions.
+B.
+1. Qualitative Path: we will conduct informal interviews with stakeholder to gain feedback on feasibility of our promotion and its implementation.
+2. Quantitative Path: since we’re prototyping the QR code scans, our quantitative data will be subjective. However, we will track visits to our page from social media site promotions we will implement.
+C.
+We will launch promotion of our microsite through both Facebook , Twitter, and Instagram platforms. The posts will include a brief description of the promotional deal and a link to our site to learn more.
