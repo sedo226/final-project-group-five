@@ -27,7 +27,7 @@
       <a class="navbar-brand"> <img src= "./prep-images/Logo.jpg"/></a>
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right">
+      <ul class="nav navbar-nav navbar-right" id="nav_nav">
         <li><a href="./index.html">ABOUT PROMOTION</a></li>
         <li><a href="./survey.html">SURVEY</a></li>
         <li><a href="./exhibitions.html">EXHIBITION SCHEDULE</a></li>
@@ -60,6 +60,30 @@
     </p>
   </footer>
 
+  <script>
+
+   var adjustNav = function(){
+     if($(window).width() < 1200){
+       //console.log("md breakpoint");
+       $('#nav_nav').removeClass("navbar-right");
+       $('#nav_nav').addClass("navbar-left");
+       $('#nav_nav').css({"margin-top":"30px","font-size":"12px"});
+     }
+     else{
+       //console.log("large breakpoint");
+       $('#nav_nav').removeClass("navbar-left");
+       $('#nav_nav').addClass("navbar-right");
+       $('#nav_nav').css({"margin-top":"40px","font-size":"15px"});
+     }
+   }
+
+   $(window).resize(function(){
+     adjustNav();
+   });
+
+   adjustNav();
+
+  </script>
 
 </body>
 </html>
